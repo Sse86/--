@@ -1,0 +1,19 @@
+<style>
+
+    #p_01 {
+
+        border: solid 20px transparent;
+
+        -webkit-border-image: url(/examples/images/img_css3_pattern.png) 34 round;
+
+        -moz-border-image: url(/examples/images/img_css3_pattern.png) 34 round;
+
+
+        -o-border-image: url(/examples/images/img_css3_pattern.png) 34 round;
+
+
+        border-image: url(/examples/images/img_css3_pattern.png) 34 round;
+
+    }
+
+</style>
